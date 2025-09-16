@@ -1,0 +1,68 @@
+body{
+background-color: rgb(238, 238, 238);
+}
+
+
+img{
+    border-radius: 50%;
+    height: 200px;
+    margin: auto;
+    display: block;
+    border: solid 8px orange;
+
+}
+
+.text{
+    font-family: monospace;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline 5px orange;
+
+}
+
+
+i{
+  color: rgb(0, 0, 0);
+  margin: 40px;
+ font-size: 30px;
+border: orange solid 5px;
+ height: 40px;
+ width: 190px;
+padding: 20px 30px;
+ text-align: center;
+ border-radius: 7px;
+
+display: inline-block;
+text-align: center;
+
+}
+
+
+
+
+.all_social{
+text-align: center;
+
+}
+
+
+a{
+    color: orange;
+}
+
+
+footer{
+    background-color: orange;
+    height: 35px;
+    width: auto;
+ text-align: center;
+ font-family: monospace;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+
+span{
+    color: black;
+    font-size: 15px;
+    text-decoration: underline 2px blue;
+}
